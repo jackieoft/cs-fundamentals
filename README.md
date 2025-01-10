@@ -92,6 +92,8 @@
 
 ## Services
 
+- **LabEx** - https://labex.io/ - Level up your Linux, DevOps, and Cybersecurity skills with 6,000+ hands-on labs directly in your browser, and get instant feedback from AI learning assistant Labby. Basic features are free to access.
+
 - **Interview Cake** - https://www.interviewcake.com/ - Interview Cake is a thoroughly documented site on programming interviews and concepts. It can be expensive for the year membership but if you're serious about buckling down to learn the fundamentals can be worth it. They also offer a money-back gaurantee.
 
 - **Daily Coding Questions** - https://dailycodingproblem.com/ - Coding question emailed to you everyday for free. If you want the answer emailed to you the following day it's $8/month.
